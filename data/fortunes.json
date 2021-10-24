@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "message": "Love is around the corner",
+        "lucky_number": 12,
+        "spirit_animal": "Pappy"
+    },
+    {
+        "id": 2,
+        "message": "I knew it could get worse",
+        "lucky_number": 16,
+        "spirit_animal": "Dog"
+    },
+    {
+        "id": 3,
+        "message": "Make me a smooth operator",
+        "lucky_number": 30,
+        "spirit_animal": "Elephant"
+    }
+]
